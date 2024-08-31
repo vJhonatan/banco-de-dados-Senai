@@ -1,3 +1,5 @@
+![logo](https://github.com/vJhonatan/banco-de-dados-Senai/blob/main/senai-logo.png)
+
 Destinado para exercícios e projetos de banco de dados.
 
 <br>
